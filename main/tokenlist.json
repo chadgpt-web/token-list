@@ -1,0 +1,34 @@
+{
+  "name": "$CHADGPT Token List",
+  "logoURI": "https://raw.githubusercontent.com/chadgpt-web/token-list/main/assets/mainnet/7PYf8bn83mKS391ZKYBnopNMV4VQzWYLNb1E5Jhv1J/logo.png",
+  "keywords": [
+    "chad",
+    "meme",
+    "alpha"
+  ],
+  "tags": {
+    "community": {
+      "name": "Community",
+      "description": "Community-generated tokens"
+    },
+    "meme": {
+      "name": "Meme",
+      "description": "Meme power coins"
+    }
+  },
+  "timestamp": "2025-05-07T00:00:00.00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "7PYf8bn83mKS391ZKYBnopNMV4VQzWYLNb1E5Jhv1J",
+      "symbol": "$CHADGPT",
+      "name": "$CHADGPTALPHA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/chadgpt-web/token-list/main/assets/mainnet/7PYf8bn83mKS391ZKYBnopNMV4VQzWYLNb1E5Jhv1J/logo.png",
+      "tags": [
+        "community",
+        "meme"
+      ]
+    }
+  ]
+}
